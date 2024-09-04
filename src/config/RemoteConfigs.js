@@ -1,5 +1,9 @@
 export const RemoteConfigs = [
     {
+        key: "ACL_自建",
+        value: "https://raw.githubusercontent.com/zihaoxy/openclash/main/xynet.ini"
+    },
+    {
         key: "ACL_默认版",
         value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
     },
